@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **harshitjawla123@gmail.com**
 
-- 📄 Know about my experiences [https://jawla.me/assets/pdf/Resume_Harshit_Jawla.pdf](https://jawla.me/assets/pdf/Resume_Harshit_Jawla.pdf)
+- 📄 Know about my experiences [Here](https://jawla.me/assets/pdf/Resume_Harshit_Jawla.pdf)
 
 - ⚡ Fun fact **I think I am funny**
 
