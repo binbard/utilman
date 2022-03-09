@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [zCodeming](https://github.com/uti1man/zCodeming)
 
-- 👨‍💻 All of my projects are available at [https://github.com/uti1man](https://github.com/uti1man)
+- 👨‍💻 All of my projects are available at [https://github.com/uti1man](https://github.com/uti1man?tab=repositories)
 
 - 📝 I regularly write articles on [https://jembotech.github.io](https://jembotech.github.io)
 
