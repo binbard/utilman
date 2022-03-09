@@ -17,11 +17,11 @@
 
 - 💬 Ask me about **anything mentioned here**
 
-- 📫 How to reach me **harshitjawla123@gmail.com**
+- 📫 How to reach me: **harshitjawla123@gmail.com**
 
 - 📄 Know about my experiences [Here](https://jawla.me/assets/pdf/Resume_Harshit_Jawla.pdf)
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact: **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
