@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [dimencart](https://github.com/uti1man/dimencart)
 
-- 🌱 I’m currently learning **Android development**
+- 🌱 I’m currently mastering **Android development**
 
 - 👯 I’m looking to collaborate on **Web apps**
 
