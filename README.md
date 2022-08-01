@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uti1man&label=Profile%20views&color=0e75b6&style=flat" alt="uti1man" /> </p>
 
-- 🔭 I’m currently working on [dimencart](https://github.com/uti1man/dimencart)
+- 🔭 I’m currently working on [nord-inout-server](https://github.com/uti1man/nord-inout-server)
 
 - 🌱 I’m currently mastering **Android development**
 
