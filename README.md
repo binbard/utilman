@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [nord-inout-server](https://github.com/uti1man/nord-inout-server)
 
-- 🌱 I’m currently mastering **Android development**
+- 🌱 I’m currently clean coding for **Android development**
 
 - 👯 I’m looking to collaborate on **Web apps**
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/uti1man](https://github.com/uti1man?tab=repositories)
 
-- 📝 I regularly write articles on [https://jembotech.github.io](https://jembotech.github.io)
+- 📝 I write on [https://jembotech.github.io](https://jembotech.github.io)
 
 - 💬 Ask me about **anything mentioned here**
 
