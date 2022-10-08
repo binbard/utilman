@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **anything mentioned here**
 
-- 📫 How to reach me: **harshitjawla123@gmail.com**
+- 📫 How to reach me: ********123@gmail.com**
 
 - 📄 Know about my experiences [Here](https://jawla.me/assets/pdf/Resume_Harshit_Jawla.pdf)
 
